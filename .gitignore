@@ -1,0 +1,8 @@
+.env
+.env.txt
+.cache/
+__pycache__/
+.venv/
+notes/
+wheelhouse/
+.pytest_cache/
